@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "US investigators probing whether Boeing 737 MAX panel was properly bolted - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/business/aerospace-defense/us-investigators-probing-whether-boeing-737-max-panel-was-properly-bolted-2024-01-09/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-09T13:07:44Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "247Sports"
+            },
+            "author": "Brad Crawford",
+            "title": "2024 NFL Mock Draft: Bears keep Justin Fields, Washington's Michael Penix Jr. lands in top 10 - 247Sports",
+            "description": "CBS Sports released its 2024 NFL Mock Draft 5.0.",
+            "url": "https://247sports.com/longformarticle/2024-nfl-mock-draft-bears-keep-justin-fields-washingtons-michael-penix-jr-lands-in-top-10-224952616/",
+            "urlToImage": "https://s3media.247sports.com/Uploads/Assets/483/225/12225483.png",
+            "publishedAt": "2024-01-09T13:03:09Z",
+            "content": "(Photo: Brett Davis, USA TODAY Sports)\r\n13. Nate Wiggins, CB, Clemson (Raiders)\r\n14. Brock Bowers, TE, Georgia (Saints)\r\n15. Brian Thomas Jr., WR, LSU (Colts)\r\n16. Jer'Zhan Newton, DL, Illinois (Seah… [+706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Nick Bromberg",
+            "title": "College Football Playoff: No. 1 Michigan beats No. 2 Washington 34-13 for first national title in 26 years - Yahoo Sports",
+            "description": "The Wolverines jumped out to an early lead and then pulled away in the second half.",
+            "url": "https://sports.yahoo.com/no-1-michigan-beats-no-2-washington-college-football-playoff-34-13-national-title-041053401.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/IJN4mZ6qg5I4pcrPiUnb9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-01/8d86e230-aea8-11ee-93df-a5795d6221c8",
+            "publishedAt": "2024-01-09T12:53:00Z",
+            "content": "Michigan is the best team in the country.\r\nThe No. 1 Wolverines jumped out to an early lead and put No. 2 Washington away late to win Mondays national championship game 34-13 and finish the 2023 seas… [+5377 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Robert Legare, Melissa Quinn",
+            "title": "Appeals court set to consider Trump's immunity claim in 2020 election case - CBS News",
+            "description": "A three-judge panel on the U.S. Court of Appeals for the District of Columbia Circuit will weigh whether former President Donald Trump is entitled to broad immunity from federal prosecution on Tuesday.",
+            "url": "https://www.cbsnews.com/news/trump-immunity-2020-election-case-appeals-court/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/01/08/62257925-e41d-48c1-adcb-36a314a259c0/thumbnail/1200x630g2/ef363a5e6dde1e2be17712bc53594811/gettyimages-1913074653.jpg?v=3638d056f7798fc8425d74271bc0b398",
+            "publishedAt": "2024-01-09T12:33:00Z",
+            "content": "Washington — A three-judge panel in Washington, D.C., is set to consider Tuesday former President Donald Trump's claim that he is shielded from federal criminal prosecution.\r\nOral arguments before th… [+6592 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Stewart Mandel",
+            "title": "Stewart Mandel’s too early college football Top 25 for the 2024-25 season - The Athletic",
+            "description": "Where do the national champions and runners-up rank entering the offseason?",
+            "url": "https://theathletic.com/5184339/2024/01/09/college-football-top-25-rankings-predictions-mandel/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2024/01/09002449/GettyImages-1905671467.jpg",
+            "publishedAt": "2024-01-09T12:15:16Z",
+            "content": "While Michigan and Washington pursued a national championship, most of the sport spent the past five weeks reshaping their rosters for 2024. My initial rankings solely assess whos coming and going. I… [+12168 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Elizabeth Wolfe, Robert Shackelford, Joe Sutton",
+            "title": "Disruptive winter storm to blast Midwest with blizzard conditions and threaten Southeast with tornadoes and floods - CNN",
+            "description": "A massive and exceptionally powerful winter storm continues to pummel much of the eastern half of the country as it treks from the Southwest and up through the Northeast this week, knocking out power in several states and prompting the closure of roads, schoo…",
+            "url": "https://www.cnn.com/2024/01/09/weather/winter-storm-forecast-blizzard-flooding-tuesday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240108204215-02-winter-weather-0108-iowa.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-01-09T12:07:00Z",
+            "content": "A wide-reaching winter storm continues to pummel much of the eastern half of the country as it journeys from the Midwest up through the Northeast this week, knocking out power in several states and p… [+6786 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "2023 confirmed as world's hottest year on record - BBC.com",
+            "description": "Climate records have tumbled \"like dominoes\" in 2023, with temperatures far above any recorded level.",
+            "url": "https://www.bbc.com/news/science-environment-67861954",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BDD3/production/_132259584_promo_climate_records_2023_v2-2x-nc.png",
+            "publishedAt": "2024-01-09T12:00:00Z",
+            "content": "By Mark Poynting &amp; Erwan RivaultBBC News Climate &amp; Verify Data Journalism teams\r\nThe year 2023 has been confirmed as the warmest on record, driven by human-caused climate change and boosted b… [+7041 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Virginia police identify suspect in 3 cold-case homicides from the 1980s, including victims of the \"Colonial Parkway Murders\" - CBS News",
+            "description": "The \"Colonial Parkway Murders\" involved the 1980s deaths of three couples and the suspected death of a fourth couple whose bodies were never recovered.",
+            "url": "https://www.cbsnews.com/news/alan-wilmer-suspect-3-cold-cases-colonial-parkway-murders-virginia-police/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/01/09/fff70eb6-c61c-45fe-ad22-57bd5b33f944/thumbnail/1200x630/6a5551e701bf70c89493aafe209a7e1b/cold-case-victims.jpg?v=3638d056f7798fc8425d74271bc0b398",
+            "publishedAt": "2024-01-09T11:39:00Z",
+            "content": "A smalltime fisherman who died in 2017 has been linked to three cold-case homicides in Virginia from the 1980s, including two that were among a series of unsolved slayings of couples known as the \"Co… [+5027 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Gabriel Attal becomes France's youngest PM as Macron seeks reset - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/europe/frances-macron-name-new-pm-he-launches-political-reset-2024-01-09/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-09T11:38:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "The Times of Israel",
+            "title": "Hezbollah drone hits IDF base in Safed; Israel said to kill 3 terrorists in Lebanon - The Times of Israel",
+            "description": null,
+            "url": "https://www.timesofisrael.com/hezbollah-drone-hits-idf-base-in-safed-israel-said-to-kill-3-terrorists-in-lebanon/",
+            "urlToImage": null,
+            "publishedAt": "2024-01-09T11:35:16Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Matt Rogers",
+            "title": "D.C.-area forecast: Incoming storm to bring heavy rain, high winds today into the evening - The Washington Post",
+            "description": "A wind advisory and flood watch are in effect. The worst could come through late in the day.",
+            "url": "https://www.washingtonpost.com/weather/2024/01/09/dc-area-forecast-incoming-storm-bring-heavy-rain-high-winds-today-into-evening/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HI2JW7MROFGABABV3I37GSGTUM.png&w=1440",
+            "publishedAt": "2024-01-09T11:34:36Z",
+            "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\n* Flood watch Tuesday afternoon through Wednesday morning | Wind advisory Tuesday afternoon and night (High wind warning near the Ches… [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Sarah Emerson",
+            "title": "Ex-Google CEO Eric Schmidt Is Working On A Secret Military Drone Project - Forbes",
+            "description": "One of the defense industry’s loudest advocates in Silicon Valley, the billionaire has been planning a covert venture inspired by Ukraine’s use of drones on the battlefield, with the help of Google alum Sebastian Thrun.",
+            "url": "https://www.forbes.com/sites/sarahemerson/2024/01/09/ex-google-ceo-eric-schmidt-is-working-on-a-secret-military-drone-project/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/659c29377efc4c1cb8c1d540/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+            "publishedAt": "2024-01-09T11:30:00Z",
+            "content": "One of the defense industrys loudest advocates in Silicon Valley, the billionaire has been planning a covert venture inspired by Ukraines use of drones on the battlefield, with the help of Google alu… [+6177 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Peregrine lander: Time running out for US Moon mission - BBC.com",
+            "description": "An American spacecraft hoping to land on the lunar surface may become inoperable within hours.",
+            "url": "https://www.bbc.com/news/science-environment-67915696",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13EA7/production/_132257518_53410071751_6bc6df93bb_k.jpg",
+            "publishedAt": "2024-01-09T11:16:00Z",
+            "content": "By Jonathan AmosScience correspondent\r\nArtwork: How Astrobotic envisioned Peregrine on the lunar surface\r\nThe American company that launched a mission on Monday to try to soft-land on the Moon says i… [+4951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Taiwan issues air raid alert saying China launched a satellite - The Associated Press",
+            "description": "Taiwan’s defense ministry has issued an alert saying China has launched a satellite and urging caution days before the island’s elections. Taiwan holds presidential and parliamentary elections Saturday that China has described as a choice between war and peac…",
+            "url": "https://apnews.com/article/taiwan-china-air-raid-alert-satellite-0657f4c4297d69d86eb1917b0b67bbe4",
+            "urlToImage": "https://dims.apnews.com/dims4/default/4815f9e/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F82%2Fddd6dd6539ad9583f3b4a3143483%2Fa51668d96ab74ddbb20da2653e31daeb",
+            "publishedAt": "2024-01-09T09:33:45Z",
+            "content": "TAIPEI, Taiwan (AP) Taiwans defense ministry issued an alert Tuesday saying China has launched a satellite and urging caution days before the islands elections. \r\nTaiwan holds presidential and parlia… [+558 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Bottled water contains 100 times more plastic nanoparticles than previously thought - Euronews",
+            "description": "Researchers cut their bottled water use after shocking discovery of a quarter of a million tiny plastic pieces per litre.",
+            "url": "https://www.euronews.com/green/2024/01/09/bottled-water-contains-100-times-more-plastic-nanoparticles-than-previously-thought",
+            "urlToImage": "https://static.euronews.com/articles/stories/08/15/92/82/1200x675_cmsv2_ce5f8e62-a5e2-5ee9-96ec-4b4989d5a91e-8159282.jpg",
+            "publishedAt": "2024-01-09T08:59:05Z",
+            "content": "Researchers cut their bottled water use after shocking discovery of a quarter of a million tiny plastic pieces per litre.\r\n The average litre of bottled water has nearly a quarter of a million pieces… [+3597 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Steve Dent",
+            "title": "Apple tells developers not to call their AR or VR apps AR or VR apps - Engadget",
+            "description": "With Apple's Vision Pro VR/AR headset set to go on sale on February 2, we're starting to see more information about the apps and other details.",
+            "url": "https://www.engadget.com/apple-tells-developers-not-to-call-their-ar-and-vr-apps-ar-or-vr-apps-085136127.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-11/371defa0-877b-11ee-b7ff-d0c276c043f9",
+            "publishedAt": "2024-01-09T08:51:36Z",
+            "content": "With Apple's Vision Pro VR/AR headset set to go on sale on February 2, we're starting to see more details about the app requirements. For example, the company has released guidelines for visionOS dev… [+1680 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Videocardz.com"
+            },
+            "author": null,
+            "title": "NVIDIA GeForce RTX 4080 and RTX 4070 Ti officially reach End-of-Life - VideoCardz.com",
+            "description": "NVIDIA RTX 4080 and RTX 4070 Ti are EOL NVIDIA has confirmed the rumors from mid-November that the two existing models are officially reaching end of life.  The GPU manufacturer is addressing a key issue with the RTX 4080—namely, the lack of interest from gam…",
+            "url": "https://videocardz.com/newz/nvidia-geforce-rtx-4080-and-rtx-4070-ti-officially-reach-end-of-life",
+            "urlToImage": "https://cdn.videocardz.com/1/2024/01/NVIDIA-RTX4080-EOL-HERO.jpg",
+            "publishedAt": "2024-01-09T08:33:00Z",
+            "content": "NVIDIA has confirmed the rumors from mid-November that the two existing models are officially reaching end of life. \r\nThe GPU manufacturer is addressing a key issue with the RTX 4080namely, the lack … [+2115 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SpaceNews"
+            },
+            "author": "Andrew Jones",
+            "title": "China launches “lobster eye” Einstein Probe to unveil mysteries of X-ray universe - SpaceNews",
+            "description": "China launches “lobster eye” Einstein Probe to unveil mysteries of X-ray universe China launched its Einstein Probe early Tuesday to detect X-ray emissions from violent, fleeting cosmic phenomena using novel lobster eye-inspired optics.",
+            "url": "https://spacenews.com/china-launches-lobster-eye-einstein-probe-to-unveil-mysteries-of-x-ray-universe/",
+            "urlToImage": "https://spacenews.com/wp-content/uploads/2022/03/einstein-probe-CAS.png",
+            "publishedAt": "2024-01-09T08:20:49Z",
+            "content": "HELSINKI China launched its Einstein Probe early Tuesday to detect X-ray emissions from violent, fleeting cosmic phenomena using novel lobster eye-inspired optics.\r\nA Long March 2C rocket lifted off … [+4989 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Sagar Naresh",
+            "title": "Samsung showcases 'AI for ALL' vision at CES 2024 - SamMobile - Samsung news",
+            "description": "At CES 2024, Samsung unveiled its strategy of 'AI for ALL', which is mainly to promote how artificial intelligence (AI) ...",
+            "url": "https://www.sammobile.com/news/samsung-showcases-ai-for-all-vision-at-ces-2024/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2024/01/samsung-ces-2024-1-720x483.jpg",
+            "publishedAt": "2024-01-09T06:45:00Z",
+            "content": "At CES 2024, Samsung unveiled its strategy of AI for ALL', which is mainly to promote how artificial intelligence (AI) technology can enable people to enjoy devices and content more intuitively than … [+1826 chars]"
+        }
+    ]
+}

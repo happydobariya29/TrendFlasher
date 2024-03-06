@@ -1,0 +1,8 @@
+.nav-Link{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+.nav-Link:hover{
+    color: rgb(85, 93, 100);
+}
